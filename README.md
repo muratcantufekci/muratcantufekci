@@ -26,5 +26,6 @@
 <img align="left" style="margin-right:10px" alt="Sass" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" style="margin-right:10px" alt="Styled Components" width="30" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
 <img align="left" style="margin-right:10px" alt="Tailwind" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
+<img align="left" style="margin-right:10px" alt="Nodejs" width="30" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png](https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png)" />
 
 <br />
